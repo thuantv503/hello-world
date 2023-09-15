@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Testing GitHub here!
 
 Testing Git Pull here!!!
+
+Testing push to remote!
